@@ -1,0 +1,20 @@
+.env:
+
+SERVICE_ACCOUNT_FILE=oplatest.json
+PDF_FOLDER_ID=13outRt1YqNsad_Kh6MsEstVs6MEJ3HUP
+GOOGLE_SHEET_FILE_ID=18cCtOPXvTvxAZRmr0z9-yqgHAoMHaekMW_0diEfrF3M
+
+oplatest.json:
+{
+  "type": "service_account",
+  "project_id": "oplatest",
+  "private_key_id": "a10416695ce80f05a37ec2650b153d82c1db9bf0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTlMs+ruogLQw/\nq/TEqFGGqppXvCjcDx9igupwy9d7mZSEuDx0bJDIJS2ijNPJ5XwwbHc2j7Bd5KyC\n/BAc1VRfaGaMfGCYaYskVPJXkQm1UunxXMzxlIDaP4DCYZ+V+SMZARCHSrnDBW9a\nROcJ3RZgCwhgTgiY890ONF5WxBRL7mwDVLk7hLWlv6uqqMJPHM17Ghz1xRjrGemt\nU3bFaMFtNFPh/c0No+xdsVuF2G7j8IpmvmMtiFyH+oKV55oH56iJl3NBW08ON+my\nKIwUWHQEfqvJQR7TXrTr21p6/IeZX/E+joxQXlL4kj+U9Z2npNCflUF8XhvHJO5z\nwCbvmY9HAgMBAAECggEAJxKCyOK4W7Jxhr34/MPvaa7rVAUd8D0UuxkcBqcBMtkT\naBv67Xv8zPCC54FPZSmbuppM6aYbNJChV8ByZ5/XSbczR0h6rn9q9kCDNMnSfy4n\nf95o6CDACIg9h7ke7i7aqvkMLjWLfuWGeKi7XnIpRV5GZnDid9RAl00oGOKq2Pss\nsm7E5QeiPMN5+aPgWJPROJsYAk9Chxs1TNkHLPOy1oQrRnmPXMvp8gGRgiZcawmM\nyQvJtgOAViyFTorcNNbPk1ARvrpNpGa3vHahJBSXKB9612m9T3bZP97Zhd6IU4fn\ntsG0ynu8vIeTGXLzmHve6XjPQTF9f2I5px0bok3akQKBgQDEJCR68gWZtKWREsxJ\nuUjIUg9jtUroRUBRHjtjNedyI6KkIFa4DTSUEQoj3PJoxatLRoMbMbX28AWA6BtQ\ntZ0f3BnlStt6/gvQFX1GgqSv8nAH4WZ0MBl7Hb0acL08Hw9LJfUyyRPfKIhWTfXl\n4wuh+NGQ3O0YD0q2Pt/logeOjwKBgQDAntLjgexrROy9FFRsPnshDeO4H+Vleiqt\n0aU29Med1eVnqHCvi+6HpZV5rJbJFspkGxp4sLC8xCIaYGFaCtnhKCHuHnP15h4U\n34tdQQAwajB43okjkyvWiweF3Gt+2dhTI2SUpU7NOBhvUZ8EqQ9m2Fe1QW53c7Ew\nBxjmcMvPyQKBgF6cAGy9aS4nEOXVZ2z4Tr8xtfKmdCdtoASAzKyiR62qurzoTGwj\nEoWJYpbB8LvQ/TsmG/92Dwu54y22x9Y6hDvl8yfC3/OHrzMD6pWkVsP38Uob00ug\nF+pnAdxLHTxuzvW0rX19uHQgHQNkP4RP7ECIwK1bo5HDbopR8bXWXkbJAoGBAKBF\nBm/qcM6oYNrKiZwvOMA+EFXppDOVPOG36GIbteQsT166llhadDRFoGPHKQdUgT5e\nFt6JFeVaxI1x2E7VbIidne3FRPM7b5gqkIkdRo0CLibD8xO4pucycyX8Sy0XEZnL\nfyr3iOPUYvBs14VHLduC8yeLs+CMUMgHf75t6AeRAoGAI7YVlQU5dkIw/4RUE99e\n7ENJ415yiJKuRRELBH+oqG/uy32pRV4VzUi0QRg4MTy56gX3cGcM3/LEwyqunRNk\nV8t/0XR5MMxv+7yqNZpdAvcOyheRqNadaa/8CkKNPCrcEYRUMRCTxrG1qh6N51aX\nLvFTklWmoUs63waJy/utW18=\n-----END PRIVATE KEY-----\n",
+  "client_email": "oplatest@oplatest.iam.gserviceaccount.com",
+  "client_id": "114051430898150005858",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oplatest%40oplatest.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
