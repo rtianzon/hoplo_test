@@ -1,10 +1,16 @@
 .env:
 
 SERVICE_ACCOUNT_FILE=oplatest.json
+
 PDF_FOLDER_ID=13outRt1YqNsad_Kh6MsEstVs6MEJ3HUP
+
 GOOGLE_SHEET_FILE_ID=18cCtOPXvTvxAZRmr0z9-yqgHAoMHaekMW_0diEfrF3M
 
+
+
 oplatest.json:
+
+
 {
   "type": "service_account",
   "project_id": "oplatest",
